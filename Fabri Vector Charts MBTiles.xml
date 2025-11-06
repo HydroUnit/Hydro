@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<RncProductCatalogChartCatalogs>
+  <Header>
+    <title>Fabri Vector Charts MBTiles</title>
+    <date_created>2025-11-05</date_created>
+    <time_created>00:08:00</time_created>
+    <date_valid>2025-11-05</date_valid>
+    <time_valid>00:08:00</time_valid>
+    <dt_valid>2025-11-05T00:08:00Z</dt_valid>
+    <ref_spec>Subset of Malta ENC Product Catalog Technical Specifications</ref_spec>
+    <ref_spec_vers>1.0</ref_spec_vers>
+    <s62AgencyCode>0</s62AgencyCode>
+  </Header>
+  <!--https://distribution.charts.noaa.gov/ncds/index.html-->
+  <chart>
+    <number>MT500178</number>
+    <title>MT500178</title>
+    <format>Sailing Chart, International Chart</format>
+    <zipfile_location>https://github.com/FabersBruh/Hydro/raw/8d0b387a29e013bfeb6d23b935ea8f6991739bf2/Attempt1.mbtiles</zipfile_location>
+    <zipfile_datetime>20251105_000800</zipfile_datetime>
+    <zipfile_datetime_iso8601>2025-11-05T00:08:00Z</zipfile_datetime_iso8601>
+  </chart>
+</RncProductCatalogChartCatalogs>
