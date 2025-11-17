@@ -140,15 +140,8 @@
     <zipfile_datetime>20251105_000800</zipfile_datetime>
     <zipfile_datetime_iso8601>2025-11-05T00:08:00Z</zipfile_datetime_iso8601>
   </chart>
-  <chart>
-    <number>TEST</number>
-    <title>TEST</title>
-    <format>Sailing Chart, International Chart</format>
-    <zipfile_location>https://github.com/HydroUnit/Hydro/raw/refs/heads/main/TEST.zip</zipfile_location>
-    <zipfile_datetime>20251105_000800</zipfile_datetime>
-    <zipfile_datetime_iso8601>2025-11-05T00:08:00Z</zipfile_datetime_iso8601>
-  </chart>
 </RncProductCatalogChartCatalogs>
+
 
 
 
